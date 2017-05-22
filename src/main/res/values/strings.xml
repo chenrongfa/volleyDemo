@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volleytest</string>
+    <string name="title_activity_string_request">StringRequestActivity</string>
+    <string name="title_activity_json_request">JsonRequestActivity</string>
+    <string name="title_activity_image_request">ImageRequest</string>
+    <string name="title_activity_gson">GsonActivity</string>
+</resources>
